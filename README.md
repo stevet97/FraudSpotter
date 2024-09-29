@@ -38,6 +38,7 @@ Fraud in financial institutions leads to significant losses. Traditional fraud d
 - **Scikit-Learn**: For feature scaling.
 
 ## How It Works
+**Data Preparation**
 
 ### Data Preparation
 Customer data, such as demographic information and financial history, is loaded and explored to understand its structure.
