@@ -177,5 +177,5 @@ Contributions are welcome! Feel free to open issues or pull requests. Any contri
 Self-Organizing Maps are a type of artificial neural network that uses unsupervised learning to produce a low-dimensional representation of high-dimensional data. This property makes them particularly useful for visualizing clusters and detecting anomalies, as they provide intuitive insights into the data distribution.
 
 ## Connect with Me
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/yourprofile)
-- **Email**: [Your Email](mailto:yourname@example.com)
+- **LinkedIn**: (https://www.linkedin.com/in/stephen-thomas-6037931b6/)
+- **Email**: (mailto:stephenthomas382@gmail.com)
