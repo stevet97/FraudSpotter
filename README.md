@@ -42,6 +42,10 @@ Fraud in financial institutions leads to significant losses. Traditional fraud d
 ### Data Preparation
 Customer data, such as demographic information and financial history, is loaded and explored to understand its structure.
 
+Data Preprocessing
+After loading the data, it needs to be prepared for training. This involves splitting the dataset into features and labels, and scaling the features to a suitable range.
+
+Splitting and Scaling the Data
 #### Loading and Exploring the Dataset
 ```python
 file_path = '/content/drive/My Drive/SOM/Credit_Card_Applications.csv'
@@ -49,3 +53,7 @@ dataset = load_dataset(file_path)
 
 # Displaying the first few rows of the dataset to understand its structure
 print(dataset.head())
+Data Preprocessing
+After loading the data, it needs to be prepared for training. This involves splitting the dataset into features and labels, and scaling the features to a suitable range.
+
+Splitting and Scaling the Data
